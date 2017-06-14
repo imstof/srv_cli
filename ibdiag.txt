@@ -1,0 +1,4 @@
+ibdiagnet
+ibnetdiscover
+ibdiagpath
+saquery

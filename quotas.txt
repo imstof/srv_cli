@@ -1,0 +1,3 @@
+quota -f /home
+quota -f /pool001/
+lfs quota /nobackup1 

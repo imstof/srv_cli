@@ -1,0 +1,1 @@
+sacct -X -o END,STATE,USER -s F -s NF -S 01/05/17-00:01 -N node127 > node127_report.txt

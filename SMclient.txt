@@ -1,0 +1,3 @@
+from eofe1
+ssh -l root -Y iml-002
+SMclient
