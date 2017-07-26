@@ -1,0 +1,5 @@
+sinfo -o "%f" -n node433
+	AVAIL_FEATURES
+	node433,centos6
+
+

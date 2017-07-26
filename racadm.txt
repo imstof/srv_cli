@@ -1,0 +1,2 @@
+from node
+racadm set BIOS.ProcSettings.LogicalProc Disabled
