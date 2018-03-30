@@ -1,0 +1,3 @@
+#add line after match
+sed '/foo/a\ ' <file>
+
