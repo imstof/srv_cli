@@ -1,0 +1,1 @@
+srun --pty --x11=first -p [partition] /bin/bash
