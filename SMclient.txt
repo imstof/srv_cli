@@ -1,7 +1,0 @@
-ssh -Y root@eofe1.mit.edu
-	SMclient
-		2xclick ost
-		check operations in progress
-
-(from eofe1) ssh -l root -Y iml-002
-		SMclient

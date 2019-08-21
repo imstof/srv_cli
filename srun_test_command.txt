@@ -1,2 +1,0 @@
-srun --pty -p sched_mit_hill --reservation=cnh_ib_probs -w node020 /bin/bash
-Thu Nov 10 14:39:32 EST 2016 (added second - to -pty)

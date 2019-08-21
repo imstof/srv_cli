@@ -1,4 +1,0 @@
-sacct -S 09/26-18:00 -E 09/26-18:30 -N node127 | grep FAIL
-sacct -X -S 09/26-18:00 -E 09/26-18:30 -N node127
-sacct -X -o END,STATE -S 09/26-18:00 -E 09/26-18:30 -N node127
-sacct -S 09/28-16:45 -s F -o NodeList -a

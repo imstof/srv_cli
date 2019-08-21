@@ -1,1 +1,0 @@
-scontrol create reservation=imstof_diags users=imstof nodes=node091 starttime=now duration=365-0

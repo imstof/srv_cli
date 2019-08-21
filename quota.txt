@@ -1,2 +1,0 @@
-srun lfs quota -u USER_NAME /scratch/
-	no 'srun' from compute node

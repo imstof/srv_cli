@@ -1,4 +1,0 @@
-ibdiagnet
-ibnetdiscover
-ibdiagpath
-saquery

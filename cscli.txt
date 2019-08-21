@@ -1,2 +1,0 @@
-#get service tag from cstor
-cscli service_console configure system show
